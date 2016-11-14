@@ -1,5 +1,7 @@
-How to publish a podcast on the cheap in 4 steps with lots of compromises
-
+---
+layout: post
+title: How to publish a podcast on the cheap in 4 steps with lots of compromises
+---
 
 
 Here is my current podcast workflow, and it should work well enough for most basic shows: 
